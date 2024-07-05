@@ -1,1 +1,1 @@
-# Learning-js-with-scaler
+# Taking a fundamental of JavaScript course with scaler 
